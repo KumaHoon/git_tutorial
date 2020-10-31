@@ -1,2 +1,2 @@
-this repository is to practice git.
+This repository is to practice git.
 
