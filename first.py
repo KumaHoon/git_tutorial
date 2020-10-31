@@ -1,2 +1,2 @@
 def first():
-    print(first)
+    print("first")
